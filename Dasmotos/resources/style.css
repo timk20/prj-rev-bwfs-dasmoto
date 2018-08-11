@@ -1,0 +1,30 @@
+.dasmotos {
+  font-family: Helvetica;
+  font-size: 100px;
+  font-weight: bold;
+  color: khaki;
+  text-align: center;
+  background-image: C:\Users\timkipka\Desktop\Projects\Dasmotos\resources\pattern.jpeg;
+}
+
+.brushes {
+  font-family: Helvetica;
+  font-size: 32px;
+  font-weight: bold;
+  color: white;
+  background-color: mediumspringgreen;
+}
+
+#container {
+  font-family: Helvetica;
+  font-weight: bold;
+  color: blue;
+}
+
+.frames {
+  background-color: lightcoral;
+}
+
+.paint {
+  background-color: skyblue;
+}
